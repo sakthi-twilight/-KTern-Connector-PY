@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+files/
+ktern/
+ktern386/
+python64/
+pyrfc-2.0.1-cp38-cp38-win_amd64.whl
+*.spec
+*.dll
+*.log
